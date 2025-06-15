@@ -1,0 +1,1 @@
+去除在 .minecraft\kubejs 文件夹内生成 README.txt 文件
